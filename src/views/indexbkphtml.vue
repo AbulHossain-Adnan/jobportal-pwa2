@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Job Portal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+
+  <!-- dashboard css  -->
+    <link href="assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+    <!-- adnan end  -->
+ 
+
+
+<!-- adnan sanu css  start  -->
+    <link rel="stylesheet" href="cccAssets/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/meanmenu.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/owl.theme.default.min.css"/>
+    <link rel="stylesheet" href="cccAssets/assets/css/magnific-popup.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/flaticon.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/remixicon.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/odometer.min.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/aos.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/style.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/dark.css" />
+    <link rel="stylesheet" href="cccAssets/assets/css/responsive.css" />
+    <!-- end  -->
+
+
+
+<!-- adnan end  -->
+
+<!-- adnan scout css start  -->
+    <link rel="stylesheet" href="jobportal/scoutAssets/css/style.css" />
+    <link rel="stylesheet" href="jobportal/scoutAssets/css/colors.css" />
+    <!-- font awesome kit  -->
+    <script src="https://kit.fontawesome.com/8f1447907f.js" crossorigin="anonymous"></script>
+  </head>
+  <body data-sidebar="dark" data-layout-mode="light">
+  <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+<!-- adnan end  -->
+
+
+
+<!-- adnan sanu js start  -->
+    <script src="cccAssets/assets/js/jquery.min.js"></script>
+    <script src="cccAssets/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="cccAssets/assets/js/jquery.meanmenu.js"></script>
+    <script src="cccAssets/assets/js/owl.carousel.min.js"></script>
+    <script src="cccAssets/assets/js/carousel-thumbs.min.js"></script>
+    <script src="cccAssets/assets/js/jquery.magnific-popup.js"></script>
+    <script src="cccAssets/assets/js/aos.js"></script>
+    <script src="cccAssets/assets/js/odometer.min.js"></script>
+    <script src="cccAssets/assets/js/appear.min.js"></script>
+    <script src="cccAssets/assets/js/form-validator.min.js"></script>
+    <script src="cccAssets/assets/js/contact-form-script.js"></script>
+    <script src="cccAssets/assets/js/ajaxchimp.min.js"></script>
+    <script src="cccAssets/assets/js/custom.js"></script>
+<!-- adnan end  -->
+
+
+
+  <!-- SCOTY DROPZONE -->
+<script src="assets/libs/dropzone/min/dropzone.min.js"></script>
+
+    <!-- dashboard scoty js start  -->
+    <!-- <script src="assets/libs/jquery/jquery.min.js"></script>
+    <script src="assets/libs/bootstrap/bootstrap.min.js"></script>
+    <script src="assets/libs/metismenu/metismenu.min.js"></script>
+    <script src="assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="assets/libs/node-waves/node-waves.min.js"></script>  -->
+    <!-- end  -->
+
+
+    <!-- start scout  -->
+    <script src="jobportal/scoutAssets/scripts/custom.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.superfish.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.themepunch.tools.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.themepunch.revolution.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.themepunch.showbizpro.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.flexslider-min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/chosen.jquery.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.magnific-popup.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/waypoints.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.counterup.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/jquery.jpanelmenu.js"></script>
+    <script src="jobportal/scoutAssets/scripts/stacktable.js"></script>
+    <script src="jobportal/scoutAssets/scripts/slick.min.js"></script>
+    <script src="jobportal/scoutAssets/scripts/headroom.min.js"></script> 
+    <!-- end  -->
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
